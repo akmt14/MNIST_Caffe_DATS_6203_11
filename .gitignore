@@ -1,0 +1,4 @@
+# Ignore image datasets & databases  #
+*.gz
+*.mdb
+*-ubyte
